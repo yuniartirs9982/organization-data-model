@@ -1,5 +1,17 @@
 # Organizational Management System (Data Modeling)
 
+## 🚀 Key Highlights
+- Designed normalized relational schema  
+- Supported hierarchical organization structure  
+- Ensured data consistency across entities
+
+--- 
+
+## 🔗 Entity Relationship Diagram (Simplified)
+<img width="1536" height="1024" alt="Entity-relationship diagram of organizational system" src="https://github.com/user-attachments/assets/3e062c24-5aaa-4ecf-a077-1bc5add0be1b" />
+
+---
+
 ## 📌 Overview
 This project demonstrates the design of a **relational data model** for an organizational management system, focusing on handling **hierarchical structures, roles, and position assignments**.
 
@@ -35,11 +47,6 @@ Designed a **normalized relational schema** that:
 - `organisasi` → organizational units  
 - `organisasi_jenis_jabatan` → role/position types within organization  
 - `pejabat` → individuals assigned to positions  
-
----
-
-## 🔗 Entity Relationship Diagram (Simplified)
-<img width="1536" height="1024" alt="Entity-relationship diagram of organizational system" src="https://github.com/user-attachments/assets/3e062c24-5aaa-4ecf-a077-1bc5add0be1b" />
 
 ---
 
